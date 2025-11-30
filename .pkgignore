@@ -1,0 +1,23 @@
+# Files to ignore when building binaries with pkg
+node_modules
+src/**/*.test.ts
+src/**/*.spec.ts
+*.test.ts
+*.spec.ts
+test
+tests
+__tests__
+.git
+.gitignore
+.pkgignore
+README.md
+*.md
+tsconfig.json
+.eslintrc*
+.prettierrc*
+.vscode
+.idea
+dist
+bin
+*.log
+
