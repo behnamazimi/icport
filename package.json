@@ -62,7 +62,7 @@
     "knip": "^5.71.0",
     "pkg": "^5.8.1",
     "prettier": "^3.7.3",
-    "typescript": "^5.0.0"
+    "typescript": "^6.0.2"
   },
   "pkg": {
     "scripts": [
