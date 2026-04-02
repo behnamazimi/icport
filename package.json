@@ -59,7 +59,7 @@
   "devDependencies": {
     "@types/node": "^20.0.0",
     "esbuild": "^0.19.12",
-    "knip": "^5.71.0",
+    "knip": "^6.2.0",
     "pkg": "^5.8.1",
     "prettier": "^3.7.3",
     "typescript": "^5.0.0"
